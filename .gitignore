@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.python-version
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+Pipfile.lock
+
+# Byte-compiled / caches
+*.pyc
+*.pyo
+*.pyd
+
+# Editor & OS
+.vscode/
+.idea/
+*.sublime*
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+logs/
+*.sqlite3
+
+# Secrets / env files
+.env
+.env.local
+.env.*.local
+
+# Model, data, and large artifacts
+artifacts/
+checkpoints/
+models/
+model/
+weights/
+.chroma_db/
+chroma_db/
+*.ckpt
+*.pt
+*.pth
+
+# Local DB / caches created by libraries
+*.db
+*.sqlite
+*.parquet
+
+# Document processing output
+*.pdf
+*.docx
+*.pptx
+
+# Tools
+.ipynb_checkpoints
+__pycache__/
+
+# Dependency caches
+pip-wheel-metadata/
+build/
+dist/
+*.egg-info/
+
+# Chromadb / local vector store (if used)
+chroma_db/
+.chroma/
+
+# Docker
+docker-compose.override.yml
+docker-compose.*.yml
+
+# Misc
+coverage.xml
+coverage/
+htmlcov/
+
+# Optional: ignore large downloads during dev
+downloads/
+tmp/
