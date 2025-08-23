@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://deepwiki.com/sharathragav/Proof-Reading-Multi-Agent-System"><img alt="Ask DeepWiki" src="https://devin.ai/assets/askdeepwiki.png" /></a>
   <a href="#"><img alt="build" src="https://img.shields.io/github/actions/workflow/status/sharathragav/proof-reading-multi-agent-system/ci.yml?branch=main&label=build&style=flat-square"/></a>
   <a href="#"><img alt="license" src="https://img.shields.io/badge/license-MIT-blue?style=flat-square"/></a>
   <a href="#"><img alt="python" src="https://img.shields.io/badge/python-3.12%2B-blue?style=flat-square"/></a>
@@ -218,14 +217,6 @@ Contributions welcome. Steps:
 2. Create a feature branch
 3. Add tests where possible
 4. Open a PR with a clear description and screenshots for UI changes
-
-**Suggested commit message for README update:**
-
-```
-docs: polished README — add badges, hero, and styling
-```
-
----
 
 ## 📜 License & Contact
 
