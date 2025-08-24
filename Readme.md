@@ -1,7 +1,6 @@
 # Proof-Reading Multi-Agent System
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sharathragav/proof-reading-multi-agent-system/main/assets/logo.png" alt="logo" width="160" />
 </p>
 
 <p align="center">
