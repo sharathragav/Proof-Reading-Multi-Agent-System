@@ -1,7 +1,5 @@
 # **PROOF-READING MULTI-AGENT SYSTEM**
 
-<p align="center">
-</p>
 
 <p align="center">
   <a href="#"><img alt="license" src="https://img.shields.io/badge/license-MIT-blue?style=flat-square"/></a>
