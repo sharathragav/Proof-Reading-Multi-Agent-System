@@ -8,7 +8,6 @@
   <a href="#"><img alt="python" src="https://img.shields.io/badge/python-3.12%2B-blue?style=flat-square"/></a>
   <a href="#"><img alt="chroma" src="https://img.shields.io/badge/vector_store-ChromaDB-lightgrey?style=flat-square"/></a>
   <a href="#"><img alt="langgraph" src="https://img.shields.io/badge/framework-LangGraph-purple?style=flat-square"/></a>
-  <a href="#"><img alt="stars" src="https://img.shields.io/github/stars/sharathragav/proof-reading-multi-agent-system?style=social"/></a>
 </p>
 
 > **A multi-agent, RAG-enabled, style-aware proofreading system built with LangGraph.**
