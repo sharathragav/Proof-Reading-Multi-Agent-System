@@ -1,4 +1,4 @@
-# Proof-Reading Multi-Agent System
+# **PROOF-READING MULTI-AGENT SYSTEM**
 
 <p align="center">
 </p>
