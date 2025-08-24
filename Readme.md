@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="#"><img alt="build" src="https://img.shields.io/github/actions/workflow/status/sharathragav/proof-reading-multi-agent-system/ci.yml?branch=main&label=build&style=flat-square"/></a>
   <a href="#"><img alt="license" src="https://img.shields.io/badge/license-MIT-blue?style=flat-square"/></a>
   <a href="#"><img alt="python" src="https://img.shields.io/badge/python-3.12%2B-blue?style=flat-square"/></a>
   <a href="#"><img alt="chroma" src="https://img.shields.io/badge/vector_store-ChromaDB-lightgrey?style=flat-square"/></a>
