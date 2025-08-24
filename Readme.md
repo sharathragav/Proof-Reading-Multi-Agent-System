@@ -225,5 +225,3 @@ Maintainer: **Sharath Ragav** — feel free to open issues or PRs.
 ---
 
 <p align="center">Made with ❤️ using LangGraph — built for audits, quality, and real-world proofreading.</p>
-
-*Want a condensed `README-short.md` for PyPI or a formatted HTML landing page? Tell me and I’ll add it and propose a commit.*
